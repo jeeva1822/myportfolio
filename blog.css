@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: white;
+    background-image: url(dark-blue.jpg);
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
+h1 p{
+    color: yellow;
+}
